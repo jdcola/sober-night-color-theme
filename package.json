@@ -1,0 +1,22 @@
+{
+    "name": "sober-night-color-theme",
+    "displayName": "Sober Night Color Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "Undertex",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sober Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sober Night-color-theme.json"
+            }
+        ]
+    }
+}
