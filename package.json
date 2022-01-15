@@ -4,6 +4,11 @@
     "description": "A minimalistic and semantic-emphasizing color theme for VSCode.",
     "version": "0.0.3",
     "publisher": "Undertex",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jdcola/sober-night-color-theme"
+    },
+    "license": "LICENSE.txt",
     "galleryBanner": {
         "color": "#1e1e1e",
         "theme": "dark"
