@@ -1,14 +1,22 @@
 {
     "name": "sober-night-color-theme",
     "displayName": "Sober Night Color Theme",
-    "description": "",
+    "description": "A minimalistic and semantic-emphasizing color theme for VSCode.",
     "version": "0.0.1",
     "publisher": "Undertex",
+    "galleryBanner": {
+        "color": "#1e1e1e",
+        "theme": "dark"
+    },
+    "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.60.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "minimalistic"
     ],
     "contributes": {
         "themes": [
